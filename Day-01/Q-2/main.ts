@@ -1,3 +1,3 @@
 // task no 2
-let myName: string = "m irfan ramzan";
-console.log(`Hey, ${myName} would you like to learn some typescript today?`);
+let myName1: string = "m irfan ramzan";
+console.log(`Hey, ${myName1} would you like to learn some typescript today?`);
