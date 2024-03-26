@@ -3,7 +3,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // Equality with strings
 console.log("Testing equality with strings:");
 console.log("apple" == "apple"); // True
-console.log("apple" == "Apple"); // False
 // Using the lower case function
 console.log("Testing with lower case:");
 console.log("Apple".toLowerCase() == "apple"); // True
