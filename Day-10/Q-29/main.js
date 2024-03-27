@@ -1,5 +1,6 @@
-let favorite_fruits: string[] = ["apples", "bananas", "cherries", "guava", "pineapple", "peach", "kiwi"];
-
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let favorite_fruits = ["apples", "bananas", "cherries", "guava", "pineapple", "peach", "kiwi"];
 if (favorite_fruits.includes("bananas")) {
     console.log("You really like bananas!");
 }
@@ -21,4 +22,3 @@ if (favorite_fruits.includes("cherries")) {
 if (favorite_fruits.includes("guava")) {
     console.log("Guava is good for digestive.");
 }
-
